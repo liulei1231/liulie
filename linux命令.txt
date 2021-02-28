@@ -1,3 +1,4 @@
  1480sudo find /home/tarena/ -name pycharm
  1481  tar -zvxf pycharm-professional-2019.3.3.tar.gz 
  1498  ./pycharm.sh
+652干扰发给四个
